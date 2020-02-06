@@ -1,4 +1,4 @@
-# LAB 1 - ESTRUCTURAS DE DATOS I
+# **LAB 1 - ESTRUCTURAS DE DATOS I**
 #### “Implementación y análisis de estructuras lineales”
 
 Una empresa dedicada al telemercadeo necesita una herramienta que le
